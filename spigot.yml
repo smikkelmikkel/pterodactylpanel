@@ -1,7 +1,7 @@
 messages: 
-  outdated-client: '&bFlatnode&f Outdated client! Please use {0}'
-  outdated-server: '&bFlatnode&f Outdated server! Im still on {0}'
-  restart: '&bFlatnode&f Server is restarting'
-  server-full: '&bFlatnode&f The server is full!'
-  unknown-command: '&bFlatnode&f the execute command that you will use is not existing!'
-  whitelist: '&bFlatnode&f You are not whitelisted on this server!'
+  outdated-client: '&8[&bFlatnode&8]&f Outdated client! Please use {0}'
+  outdated-server: '&8[&bFlatnode&8]&f Outdated server! Im still on {0}'
+  restart: '&8[&bFlatnode&8]&f The server will be restart'
+  server-full: '&8[&bFlatnode&8]&f The server that you will join is full!'
+  unknown-command: '&8[&bFlatnode&8]&f the execute command that you will use is not existing!'
+  whitelist: '&8[&bFlatnode&8]&f This server has been whitelisted!'
